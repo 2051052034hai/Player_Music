@@ -297,8 +297,8 @@ const app = {
         //render PlayList
         this.render();
         // hiện thị trang thái ban đầu của button reapeat và random
-        randomBtn.classList.toggle('active', this.isRandom);
-        repeatBtn.classList.toggle('active', this.isrepeat);
+        // randomBtn.classList.toggle('active', this.isRandom);
+        // repeatBtn.classList.toggle('active', this.isrepeat);
     }
 }  
 
