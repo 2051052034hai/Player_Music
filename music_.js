@@ -93,6 +93,20 @@ const app = {
           path: "nhac/y2meta.com - Về Bên Anh「Lofi Ver.」- Jack x Mihle _ Audio Lyric Video (128 kbps).mp3",
           image:
             "https://i.ytimg.com/vi/OTxe_r4LAyo/maxresdefault.jpg"
+        },
+        {
+          name: "Lời tạm biệt chưa nói",
+          singer: "GREY D  ORANGE",
+          path: "nhac/y2mate.com - lời tạm biệt chưa nói  GREY D  ORANGE  Hương Mùa Hè show tập 3.mp3",
+          image:
+            "https://i.ytimg.com/vi/B9PDYlaV84w/maxresdefault.jpg"
+        },
+        {
+          name: "Bằng Lòng Đi Em",
+          singer: "NB3 Hoài Bảo x Nguyeen",
+          path: "nhac/y2mate.com - Bằng Lòng Đi Em  Lofi ver  NB3 Hoài Bảo x Nguyeen.mp3",
+          image:
+            "https://i.ytimg.com/vi/SDWRWZEUs0o/maxresdefault.jpg"
         }
     ],
     setConfig: function(key, value) {
